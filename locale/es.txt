@@ -4,14 +4,13 @@
 
 ### Título
 panorama_5D1D406A_50E9_C9CD_41D1_FBC7A8A9E8C8.label = Palm Estates F4 DP PA 07 SAS
-panorama_5D2C2ECD_50E8_36C6_41D3_A65B44347349.label = Palm Estates F4 DP PA 08 Chambre 02
-panorama_5D4C11E5_50F7_CAC7_41D3_B539F8A5AB7D.label = Palm Estates F4 DP PA 09 Chambre 02
-panorama_5D3597F9_50F8_36CF_41D1_162928F4E3A9.label = Palm Estates F4 DP PA 10 Dressing
-panorama_5D331F9C_50F8_5746_41AC_2C6C24F8FADF.label = Palm Estates F4 DP PA 11 Toilette
-panorama_5D36C9E6_50F8_3AC5_41D3_DB79DBDB0A64.label = Palm Estates F4 DP PA 12 Chambre Principale
-panorama_5D4F01E7_50F8_4AC2_41B4_748F901EC71B.label = Palm Estates F4 DP PA 13 Toilette
-panorama_5D32CB6B_50F9_DFC2_41CF_6DF1CBA0F1F3.label = Palm Estates F4 DP PA 14 Office
-panorama_40637D48_50E8_3BCE_41CE_06E3E1D20810.label = Palm Estates F4 DP PB 01 Sejour
+panorama_5FD797C2_5220_2889_41A5_7F904CB9279E.label = Palm Estates F4 DP PA 08 Chambre 02
+panorama_5F4056D5_5220_688B_41CB_F981331C274C.label = Palm Estates F4 DP PA 10 Dressing
+panorama_5F704F4A_5220_3999_41D3_E889F8FB52C0.label = Palm Estates F4 DP PA 11 Toilette
+panorama_5F7C09F7_5220_1877_41C0_249A80609EB5.label = Palm Estates F4 DP PA 12 Chambre Principale
+panorama_5F18B7CA_5220_2899_41C3_BDDE174D6B34.label = Palm Estates F4 DP PA 13 Toilette
+panorama_5FDD6FCE_5220_1899_41CC_38BC86E192A0.label = Palm Estates F4 DP PA 14 Office
+panorama_5C7BC802_5220_2789_41CD_401089A87BBD.label = Palm Estates F4 DP PB 01 Sejour
 panorama_5D0570D1_50E8_4ADE_41B4_210A65A2BD47.label = Palm Estates F4 DP PB 02 SAS 01
 panorama_5D2B4D78_50E8_7BCE_41D0_D6797A044112.label = Palm Estates F4 DP PB 03 SAS 01
 panorama_5D589989_50E8_DB4F_41D2_C34B35D12065.label = Palm Estates F4 DP PB 04 Kitchen
