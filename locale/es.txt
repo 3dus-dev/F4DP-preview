@@ -3,7 +3,7 @@
 ## Media
 
 ### Título
-panorama_563A7173_5B82_8148_41C9_88221AE0C9E8.label = Palm Estates F4 DP PA 07 SAS
+panorama_4F639A06_5C8E_82C8_41C7_01BD6E54AC60.label = Palm Estates F4 DP PA 07 SAS
 panorama_5FD797C2_5220_2889_41A5_7F904CB9279E.label = Palm Estates F4 DP PA 08 Chambre 02
 panorama_5F4056D5_5220_688B_41CB_F981331C274C.label = Palm Estates F4 DP PA 10 Dressing
 panorama_5F704F4A_5220_3999_41D3_E889F8FB52C0.label = Palm Estates F4 DP PA 11 Toilette
