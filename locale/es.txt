@@ -3,19 +3,19 @@
 ## Media
 
 ### Título
-panorama_4F639A06_5C8E_82C8_41C7_01BD6E54AC60.label = Palm Estates F4 DP PA 07 SAS
-panorama_5FD797C2_5220_2889_41A5_7F904CB9279E.label = Palm Estates F4 DP PA 08 Chambre 02
-panorama_5F4056D5_5220_688B_41CB_F981331C274C.label = Palm Estates F4 DP PA 10 Dressing
-panorama_5F704F4A_5220_3999_41D3_E889F8FB52C0.label = Palm Estates F4 DP PA 11 Toilette
-panorama_5F7C09F7_5220_1877_41C0_249A80609EB5.label = Palm Estates F4 DP PA 12 Chambre Principale
-panorama_56223CC0_5B83_8748_41CE_53D7DF9A519A.label = Palm Estates F4 DP PA 13 Toilette
-panorama_562B7175_5B83_8148_41B0_10EBE89D6A19.label = Palm Estates F4 DP PA 14 Office
-panorama_5C7BC802_5220_2789_41CD_401089A87BBD.label = Palm Estates F4 DP PB 01 Sejour
-panorama_5D0570D1_50E8_4ADE_41B4_210A65A2BD47.label = Palm Estates F4 DP PB 02 SAS 01
-panorama_5D2B4D78_50E8_7BCE_41D0_D6797A044112.label = Palm Estates F4 DP PB 03 SAS 01
-panorama_5D589989_50E8_DB4F_41D2_C34B35D12065.label = Palm Estates F4 DP PB 04 Kitchen
-panorama_5EF80E50_50E8_D9DD_41CB_B3F06B78DA09.label = Palm Estates F4 DP PB 05 Chambre
-panorama_5EB51643_50E8_49C3_4175_5D3919DC21C2.label = Palm Estates F4 DP PB 06 Douch
+panorama_51B71201_7B93_9AED_41C9_15B32F57EE51.label = Palm Estates F4 DP PA 07 SAS
+panorama_5170BD71_7B90_692A_41D6_12AA0B3689A0.label = Palm Estates F4 DP PA 08 Chambre 02
+panorama_515BFA7C_7B90_AB1B_41D1_08D74E4483B3.label = Palm Estates F4 DP PA 10 Dressing
+panorama_514852D4_7B8F_9B6A_4183_A5883FE4B9AD.label = Palm Estates F4 DP PA 11 Toilette
+panorama_50A5DB95_7B90_6915_41B7_2C8AF08385F3.label = Palm Estates F4 DP PA 12 Chambre Principale
+panorama_5110613D_7B90_9915_41C3_2DE27D0322D5.label = Palm Estates F4 DP PA 13 Toilette
+panorama_5176D69C_7B90_9B1B_41DD_C49190D95876.label = Palm Estates F4 DP PA 14 Office
+panorama_517F46DA_7B91_BB1F_41DE_ABBFFA8A6AF9.label = Palm Estates F4 DP PB 01 Sejour
+panorama_5153AEC5_7B91_AB6A_41C9_0A741D5AF9A0.label = Palm Estates F4 DP PB 02 SAS 01
+panorama_5177613C_7B90_991B_41D1_E09447926DE7.label = Palm Estates F4 DP PB 03 SAS 01
+panorama_513FD7EF_7B90_9935_41B3_4960E1B3BCA2.label = Palm Estates F4 DP PB 04 Kitchen
+panorama_5173161C_7B90_BB1A_41DD_D5DFF5F1C1C8.label = Palm Estates F4 DP PB 05 Chambre
+panorama_516D85A4_7B90_792B_41D2_73E800EFDFFB.label = Palm Estates F4 DP PB 06 Douch
 
 ## Tour
 
